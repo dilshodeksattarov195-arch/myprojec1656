@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydelete",
+        "uuid": 7619256,
+        "checksum": "rsgqi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
